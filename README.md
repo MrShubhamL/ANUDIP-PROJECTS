@@ -36,7 +36,10 @@
   <strong>PROJECT STRUCTURE : </strong>
 </p>
 <h3>LIBRARY-MANAGEMENT-SYSTEM</h3>
-![Library_Management](https://user-images.githubusercontent.com/82263361/187028690-3a42af59-c33c-41c5-9a80-a25e37b5ccc1.png)
 
 
 
+
+
+
+![LB](https://user-images.githubusercontent.com/82263361/187028739-15e9816b-c120-4344-8f37-ca6448aab2ef.png)
